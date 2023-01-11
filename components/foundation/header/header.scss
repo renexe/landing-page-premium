@@ -1,0 +1,11 @@
+@import "../../../theme/theme.scss";
+
+.header--main {
+  background-color: transparent;
+  color: var(--color-blue-dark);
+  font-weight: normal;
+  padding: 0 3rem;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

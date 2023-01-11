@@ -1,6 +1,10 @@
-@import 'variables';
-@import 'mixins';
+@import "variables";
+@import "mixins";
 
 :root {
-    @include spread-map($theme-map);
+  @include spread-map($theme-map);
+}
+
+body {
+  margin: 0;
 }
