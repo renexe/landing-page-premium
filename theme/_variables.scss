@@ -1,0 +1,14 @@
+$--color-white: --color-white;
+$--color-blue-primary: --color-blue-primary;
+$--color-blue-dark: --color-blue-dark;
+$--color-blue-light: --color-blue-light;
+$--color-green-light: --color-green-light;
+
+// Default theme
+$theme-map: (
+  $--color-white: #efefef,
+  $--color-blue-primary: #1f3e76,
+  $--color-blue-dark: #0f2137,
+  $--color-blue-light: #244886,
+  $--color-green-light: #25cb9e,
+);
